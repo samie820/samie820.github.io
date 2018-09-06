@@ -2,9 +2,21 @@ const Portfolio = function() {
 	function makeWords() {
 		var words = [
 			{
-				text: "React Framework",
+				text: "React JS",
 				weight: 12.3
-			}, {
+			},{
+				text: "React Native",
+				weight: 10,
+			},
+			{
+				text: "Javascript",
+				weight: 15,
+			},
+			{
+				text: "Node JS",
+				weight: 13,
+			},
+			{
 				text: "Sentiment Analysis",
 				weight: 8
 			}, {
